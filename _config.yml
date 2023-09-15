@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Feue的小窝
-subtitle: 'Feue的小站'
-description: '分享Feue的所想'
+title: 直间
+subtitle: 'dvz的小站'
+description: '分享dvz的所想'
 keywords: 技术 思考 
-author: John Doe
+author: dvz
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url:  https://fodesu.github.io/     
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
